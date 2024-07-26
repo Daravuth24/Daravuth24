@@ -14,7 +14,7 @@
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
 
 ### 🛠 &nbsp;Tech Stack
-Front-end development: ReactJS, NextJS \
+Front-end development: ReactJS(https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;, NextJS \
 Back-end development: NodeJS, ExpressJS
 <!--
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
