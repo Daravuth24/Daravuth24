@@ -53,7 +53,7 @@ Back-end development: \
 -->
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/kol-daravuth-chau/"><img src="https://img.shields.io/badge/-Kol%20Daravuth%20Chau-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:daravuth92@gmail.com"><img src="https://img.shields.io/badge/-daravuth92@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/koldaravuth/"><img src="https://img.shields.io/badge/-@koldaravuth-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
