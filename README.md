@@ -11,7 +11,7 @@
 ✉️ &nbsp;You can shoot me an email at daravuth92@gmail.com!
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.resume.com) for more details about me. I'm open to feedback and suggestions! -->
 
-### 🛠 &nbsp;Skills
+### 🛠 &nbsp;Tech Stack
 Front-end development: \
 \
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
