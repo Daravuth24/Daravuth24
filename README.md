@@ -16,6 +16,7 @@ Front-end development: \
 \
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![NextJS](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
 
 Back-end development: \
@@ -36,4 +37,6 @@ Back-end development: \
 <!--
 Credits: Aditya Vikram Singh
 Last Edited on: 11/12/2020
+https://github.com/Envoy-VC/awesome-badges?tab=readme-ov-file
+https://dev.to/envoy_/150-badges-for-github-pnk
 -->
