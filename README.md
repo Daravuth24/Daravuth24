@@ -8,7 +8,7 @@
 🎓 &nbsp;I'm currently studying Software Engineering at Kirirom Insitute of Technology.\
 🌱 &nbsp;I'm on track for learning more on DevOps, Backend development, and API development.\
 ✍️ &nbsp;In my free time, I play sports and browse the internet.\
-✉️ &nbsp;You can shoot me an email at daravuth92@gmail.com! or checkout my portfolio @ daravuth.vercel.app
+✉️ &nbsp;You can shoot me an email at daravuth92@gmail.com! or checkout my portfolio <a href="daravuth.vercel.app">here</a>
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.resume.com) for more details about me. I'm open to feedback and suggestions! -->
 
 ### 🛠 &nbsp;Tech Stack
